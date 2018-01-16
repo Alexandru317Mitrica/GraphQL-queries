@@ -49,7 +49,7 @@ b) Open a browser, and as an URL, add the IP of the docker, and port 3000:
 ![ScreenShot](https://raw.githubusercontent.com/Alexandru317Mitrica/GraphQL-queries/master/pics/gr_3.png)
 
 
-**3) Authenticate to obtain access to github api repos for angular
+**3) Authenticate to obtain access to github api repos for angular**
 
 ```
 curl -u "Alexandru317Mitrica" https://api.github.com
@@ -65,3 +65,10 @@ You should now be able to access the following link: https://api.github.com/orgs
 **4) Test the queries**
 
 ![ScreenShot](https://raw.githubusercontent.com/Alexandru317Mitrica/GraphQL-queries/master/pics/gr_4.png)
+
+
+<i>More details:
+
+- GraphQL server is created using express
+- GraphQL queries are handled in Javascript</i>
+
