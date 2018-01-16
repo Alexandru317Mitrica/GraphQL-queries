@@ -67,8 +67,10 @@ You should now be able to access the following link: https://api.github.com/orgs
 ![ScreenShot](https://raw.githubusercontent.com/Alexandru317Mitrica/GraphQL-queries/master/pics/gr_4.png)
 
 
+
+
 <i>More details:
 
 - GraphQL server is created using express
-- GraphQL queries are handled in Javascript</i>
+- GraphQL queries are handled with Javascript</i>
 
